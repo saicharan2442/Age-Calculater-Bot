@@ -65,5 +65,5 @@ MIT License
 ## 👨‍💻 Author
 
 Made with ❤️ by saicharan_sada  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/saicharan-sada/)  
 💻 [GitHub](https://github.com/yourusername)
